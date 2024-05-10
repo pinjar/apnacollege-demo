@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my first Git Repository.
 <br>
-Author - Pinjar Priyanka
+Author - Pinjar Priyanka(Apna college)
